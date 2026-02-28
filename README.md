@@ -4,8 +4,6 @@ I’ve built three simple web apps using just HTML, CSS, and JavaScript — no f
 
 ⸻
 
-Apps
-
 Calcr — Calculator
 
 A fully functional calculator that handles basic operations along with square root, square, and percentage calculations. It also supports keyboard input and shows a history of your recent calculations on the screen.
