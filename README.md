@@ -10,8 +10,8 @@ File: calculator-app/calculator.html
 
 ⸻
 
-Tech Used
+Tech Used <br>
 	•	HTML5, CSS3, Vanilla JavaScript <br>
-	•	Open-Meteo API (free weather data, no API key required)
-	•	Google Fonts
-	•	Deployment via Vercel
+	•	Open-Meteo API (free weather data, no API key required) <br>
+	•	Google Fonts <br>
+	•	Deployment via Vercel <br>
