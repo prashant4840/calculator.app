@@ -9,12 +9,6 @@ You can:
 - See a small **history tape** of recent calculations
 - Tap buttons and get a little ripple effect + display flash on `=`
 
-## How to run
-
-1. Download or clone the project.
-2. Open `index calculator.html` in your browser.
-3. Use either your mouse or your keyboard to start calculating.
-
 No additional setup or backend is required.
 
 ## Tech / concepts I practiced
