@@ -1,20 +1,34 @@
-Calcr — Simple Calculator Web App
+# Calcr – Retro Calculator (Student Project)
 
-This is a simple calculator web app that I built using only HTML, CSS, and JavaScript. I didn’t use any frameworks or external libraries because I wanted to understand how everything works using the basics.
+Calcr is a small calculator app I built to get comfortable with JavaScript logic and a bit of UI polish. I tried to give it a “retro machine” vibe with a glowing display, metal chassis, and clicky‑looking buttons.
 
-About the Project : 
+You can:
+- Do basic operations: **+ , − , × , ÷**
+- Use **keyboard shortcuts** (numbers, operators, Enter, Backspace, Esc, %)
+- Work with **decimals**, **percentages**, square root, and x²
+- See a small **history tape** of recent calculations
+- Tap buttons and get a little ripple effect + display flash on `=`
 
-This calculator can perform basic operations like addition, subtraction, multiplication, and division. It also supports square, square root, and percentage calculations.
+## How to run
 
-You can type using your keyboard or click the buttons on the screen. The calculator also shows a small history of recent calculations so you can keep track of what you’ve done.
+1. Download or clone the project.
+2. Open `index calculator.html` in your browser.
+3. Use either your mouse or your keyboard to start calculating.
 
-I built this project to practice JavaScript logic, DOM manipulation, and basic UI design.
+No additional setup or backend is required.
 
-⸻
+## Tech / concepts I practiced
 
-Tech Used
+- **HTML, CSS, JavaScript** only
+- Handling **keyboard events** and mapping keys to UI actions
+- Implementing calculation logic without relying on `eval`
+- Dealing with **float precision issues** using `toPrecision`
+- Simple UI animations (button press, ripples, shaking on error)
 
-• HTML5, CSS3, Vanilla JavaScript
-• Open-Meteo API (free weather data, no API key required)
-• Google Fonts
-• Deployment via Vercel
+## Possible improvements later
+
+- Add more scientific functions (sin, cos, tan, memory buttons, etc.)
+- Make the layout fully responsive for very small screens
+- Add sound effects for button clicks for extra retro feel
+
+Right now, Calcr is my way of showing that I can connect UI, keyboard input, and math logic together as a first‑year student. 📟
