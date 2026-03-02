@@ -1,4 +1,4 @@
-# Calcr – Retro Calculator (Student Project)
+# Calcr – Retro Calculator
 
 Calcr is a small calculator app I built to get comfortable with JavaScript logic and a bit of UI polish. I tried to give it a “retro machine” vibe with a glowing display, metal chassis, and clicky‑looking buttons.
 
@@ -31,4 +31,4 @@ No additional setup or backend is required.
 - Make the layout fully responsive for very small screens
 - Add sound effects for button clicks for extra retro feel
 
-Right now, Calcr is my way of showing that I can connect UI, keyboard input, and math logic together as a first‑year student. 📟
+Right now, Calcr is my way of showing that I can connect UI, keyboard input, and math logic together as a first‑year student. 
